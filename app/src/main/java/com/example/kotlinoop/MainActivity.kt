@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         println(myUser.age)
         println(myUser.name)
+        println("nazimates github ayarlarını tamamladı")
 
         /*
         var james=Musician("James","Gitar",55)
